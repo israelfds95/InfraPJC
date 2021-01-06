@@ -1,6 +1,7 @@
 Toda vez que for salvar
     press ctrl+shift + P 
     enter git: commit
+    enter comment feat: comentario_sobre_o_salvamento_a_ser_realizado_commit
     after
     press again ctrl+shift + P 
     enter git: Sync
